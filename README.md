@@ -1,53 +1,78 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8a00ff&height=120&section=header"/>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8a00ff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Matheus+Henrique;Eu+estudo+Analise+e+Desenvolvimento+de+Sistemas;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg) 
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=matheuswq1&show_icons=true&count_private=true&hide_border=true&title_color=8a00ff&icon_color=8a00ff&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Code github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuswq1&layout=compact&hide_border=true&title_color=8a00ff&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=matheuswq1&bg_color=000000&color=8a00ff&line=8a00ff&point=8a00ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<div align="center">  
-<a href="https://www.instagram.com/_matheus_code/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div> 
- 
-### Main skills:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
- 
-### Tools:
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
-![Atom](https://img.shields.io/badge/-atom-0D1117?style=for-the-badge&logo=atom&logoColor=90ee90&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
- 
-### Other Knowledge:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![Handlebars](https://img.shields.io/badge/-handlebars-0D1117?style=for-the-badge&logo=handlebars&labelColor=0D1117)&nbsp;
-  
-### Studying in this moment:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8a00ff&height=200&section=header&text=Matheus%20Henrique&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20|%20Estudante%20de%20ADS&descAlignY=55&descSize=18"/>
 <div align="center">
-<br><p align="centre"><b>Contador de visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{matheuswq1}/count.svg" /></p> 
-<br></div>
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8a00ff&height=120&section=footer"/>
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=8a00ff&size=28&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Matheus+%F0%9F%91%8B;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Apaixonado+por+desenvolvimento+web;Seja+bem-vindo(a)+ao+meu+perfil+%3A%29)
+</div>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/status-em%20constru%C3%A7%C3%A3o-8a00ff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/localiza%C3%A7%C3%A3o-Brasil-8a00ff?style=for-the-badge"/>
+</div>
+👨‍💻 Sobre mim
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+💻 Foco em desenvolvimento front-end e back-end com JavaScript
+🚀 Sempre aprendendo novas tecnologias e boas práticas
+📫 Como me encontrar: veja os links logo abaixo
+<br>
+🌐 Redes sociais
+<div align="center">
+  <a href="https://www.instagram.com/_matheus_code/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:seuemail@exemplo.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+<br>
+🛠️ Principais habilidades
+<div align="center">
+![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+</div>
+🧰 Ferramentas
+<div align="center">
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+</div>
+📚 Outros conhecimentos
+<div align="center">
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Handlebars](https://img.shields.io/badge/Handlebars-black?style=for-the-badge&logo=handlebars&logoColor=white)
+</div>
+📖 Estudando atualmente
+<div align="center">
+![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+</div>
+<br>
+📊 Estatísticas do GitHub
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=matheuswq1&show_icons=true&count_private=true&hide_border=true&title_color=8a00ff&icon_color=8a00ff&text_color=c9d1d9&bg_color=0d1117" alt="Matheus stats" />
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuswq1&layout=compact&hide_border=true&title_color=8a00ff&text_color=c9d1d9&bg_color=0d1117" alt="Top languages" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheuswq1&hide_border=true&background=0D1117&stroke=8a00ff&ring=8a00ff&fire=8a00ff&currStreakLabel=8a00ff" alt="GitHub streak" />
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matheuswq1&bg_color=000000&color=8a00ff&line=8a00ff&point=8a00ff&area=true&hide_border=true" alt="Activity graph" />
+</div>
+<br>
+<div align="center">
+  <p><b>Contador de visitantes</b></p>
+  <img src="https://profile-counter.glitch.me/matheuswq1/count.svg" alt="Contador de visitantes" />
+</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8a00ff&height=120&section=footer"/>
