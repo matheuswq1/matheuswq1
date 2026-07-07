@@ -205,12 +205,15 @@
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuswq1&show_icons=true&count_private=true&hide_border=true&title_color=8a00ff&icon_color=8a00ff&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuswq1&layout=compact&hide_border=true&title_color=8a00ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuswq1&show_icons=true&count_private=true&hide_border=true&title_color=8a00ff&icon_color=8a00ff&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&include_all_commits=true&cache_seconds=1800" />
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuswq1&layout=compact&hide_border=true&title_color=8a00ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8&cache_seconds=1800" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=matheuswq1&hide_border=true&background=0D1117&stroke=8a00ff&ring=8a00ff&fire=ff6b6b&currStreakLabel=8a00ff&sideLabels=8a00ff&dates=c9d1d9&locale=pt_BR" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=matheuswq1&theme=transparent&hide_border=true&background=0D1117&stroke=8a00ff&ring=8a00ff&fire=ff6b6b&currStreakLabel=8a00ff&sideLabels=8a00ff&dates=c9d1d9&locale=pt_BR" alt="GitHub Streak" />
 </div>
 
 ---
@@ -226,7 +229,7 @@
 ## 🏆 Conquistas
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=matheuswq1&theme=dracula&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=matheuswq1&theme=dracula&no-frame=true&no-bg=true&margin-w=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
 </div>
 
 ---
