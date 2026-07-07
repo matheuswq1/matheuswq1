@@ -30,7 +30,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/🇧🇷_Localização-Brasil-8a00ff?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/💼_Status-Disponível_para_projetos-00c853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/💼_Status-Técnico_Desenvolvedor_Sênior-00c853?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🌐_Regime-Remoto_ou_Presencial-8a00ff?style=for-the-badge"/>
 </div>
 
@@ -40,7 +40,7 @@
 
 ## 👨‍💻 Sobre mim
 
-<img src="https://img.shields.io/badge/Nome-Matheus%20Henrique%20Augusto-8a00ff?style=flat-square"/> <img src="https://img.shields.io/badge/Cargo-Desenvolvedor%20Full%20Stack%20%26%20Mobile-8a00ff?style=flat-square"/> <img src="https://img.shields.io/badge/Experiência-5%2B%20anos-8a00ff?style=flat-square"/> <img src="https://img.shields.io/badge/Projetos-25%2B%20entregues-8a00ff?style=flat-square"/> <img src="https://img.shields.io/badge/Tecnologias-15%2B-8a00ff?style=flat-square"/>
+<img src="https://img.shields.io/badge/Nome-Matheus%20Henrique%20Augusto-8a00ff?style=flat-square"/> <img src="https://img.shields.io/badge/Cargo-Técnico%20Desenvolvedor%20Sênior-8a00ff?style=flat-square"/> <img src="https://img.shields.io/badge/Também-Freelancer%20Full%20Stack-8a00ff?style=flat-square"/> <img src="https://img.shields.io/badge/Experiência-5%2B%20anos-8a00ff?style=flat-square"/> <img src="https://img.shields.io/badge/Projetos-25%2B%20entregues-8a00ff?style=flat-square"/> <img src="https://img.shields.io/badge/Tecnologias-15%2B-8a00ff?style=flat-square"/>
 
 ---
 
@@ -99,11 +99,36 @@
 
 ## 💼 Experiência Profissional
 
+### 🟢 Cargo Atual — 2026 até o momento
+
 <div align="center">
 
 | | |
 |---|---|
-| **Cargo** | 🟢 Desenvolvedor Full Stack Freelancer |
+| **Cargo** | Técnico Desenvolvedor Sênior |
+| **Período** | 2026 — Atual |
+| **Regime** | CLT / Presencial ou Híbrido |
+| **Descrição** | Atuação como Técnico Desenvolvedor Sênior, responsável pelo desenvolvimento, manutenção e evolução de sistemas internos, com liderança técnica em projetos estratégicos. |
+
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFA000?style=for-the-badge&logo=firebase&logoColor=white"/>
+</div>
+
+<br/>
+
+### 🔵 Em paralelo — Freelancer
+
+<div align="center">
+
+| | |
+|---|---|
+| **Cargo** | Desenvolvedor Full Stack Freelancer |
 | **Período** | 2024 — Atual |
 | **Descrição** | Desenvolvimento de sistemas personalizados para empresas e clientes particulares, atuando em todas as etapas do projeto. |
 
@@ -118,14 +143,6 @@
 | ✅ Landing pages otimizadas | ✅ Firebase Auth & Firestore |
 | ✅ Modelagem de banco de dados | ✅ Manutenção de sistemas |
 
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFA000?style=for-the-badge&logo=firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div>
 
 ---
@@ -193,7 +210,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheuswq1&hide_border=true&background=0D1117&stroke=8a00ff&ring=8a00ff&fire=ff6b6b&currStreakLabel=8a00ff&sideLabels=8a00ff&dates=c9d1d9" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=matheuswq1&hide_border=true&background=0D1117&stroke=8a00ff&ring=8a00ff&fire=ff6b6b&currStreakLabel=8a00ff&sideLabels=8a00ff&dates=c9d1d9&locale=pt_BR" alt="GitHub Streak" />
 </div>
 
 ---
