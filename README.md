@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8a00ff&height=200&section=header&text=Matheus%20Henrique&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20|%20Estudante%20de%20ADS&descAlignY=55&descSize=18"/>
 <div align="center">
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=8a00ff&size=28&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Matheus+%F0%9F%91%8B;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Apaixonado+por+desenvolvimento+web;Seja+bem-vindo(a)+ao+meu+perfil+%3A%29)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&color=8a00ff&size=28&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Matheus+%F0%9F%91%8B;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Apaixonado+por+desenvolvimento+web;Seja+bem-vindo(a)+ao+meu+perfil+%3A%29)
 </div>
 <br>
 <div align="center">
